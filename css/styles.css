@@ -1,0 +1,146 @@
+
+body {
+    color:#11999E
+   margin: 0;
+   text-align:center;
+   font-family: 'calibri',Italics;
+   
+
+}
+h1 {
+    color:  #66BFBF
+    margin-top: 0;
+    font-family: 'calibri',Italics;
+
+}
+
+h2 {
+    color:#66BFBF
+    font-family:'Monstserrat', sans-serif;
+
+}
+
+h3 {
+    color:#11999E
+}
+p {
+    line-height:2;
+}
+
+hr {
+    border:dotted #EAF6F6 6PX;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a { 
+   color: #000000
+   margin:10px 20px;
+   text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6
+}
+.top-container {
+ background-color: #66BFBF;
+ position: relative;
+ padding-top: 100px;
+}
+
+
+.middle-container {
+    padding-middle: 100px;
+    
+   
+}
+ .resize {
+        width: 100px;
+        height: auto;
+    }
+
+.btn {
+    background: #34d1d9;
+    background-image: -webkit-linear-gradient(top, #34d1d9, #277bb0);
+    background-image: -moz-linear-gradient(top, #34d1d9, #277bb0);
+    background-image: -ms-linear-gradient(top, #34d1d9, #277bb0);
+    background-image: -o-linear-gradient(top, #34d1d9, #277bb0);
+    background-image: linear-gradient(to bottom, #34d1d9, #277bb0);
+    -webkit-border-radius: 16;
+    -moz-border-radius: 16;
+    border-radius: 16px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 3px 7px 3px 7px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.bottom-container {
+    background-color:#66BFBF;
+    padding-bottom: 2px;
+    font-size: 15px;
+}
+.myskill-row {
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: right;
+    
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+.intro {
+    width:30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 20%;
+    margin: 20px auto 60px;
+}
+.coyright {
+    color: #EAF6F6
+    font-size: 0.75rem;
+    padding: 20px 0;
+    margin: 40px auto 60px;
+}
+.top-cloud{
+ position: absolute;
+ right:300px;
+ top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+
+    bottom: 300px;
+}
+.competence-img {
+    width:3%;
+    
+    margin-right: 15px;
+    
+}
+
+.logicalthinking-img {
+    width:10%; 
+   
+   margin-left: 20px;
+}
+.profile-img {
+ width:10%;
+ margin-right:10px;
+}
